@@ -1,0 +1,10 @@
+h1. Redcar recenter plugin
+
+Recenter the cursor line in a Redcar edit tab
+
+h2. Installation
+
+<pre>
+cd ~/.redcar/plugins
+git clone git://github.com/shinichy/redcar-recenter.git recenter
+</pre>
